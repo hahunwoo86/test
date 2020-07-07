@@ -8,7 +8,7 @@
 <html>
 	<head>
 		<meta charset="utf-8">
-		<title>Welcome</title>
+		<title>테스트</title>
 	</head> 
 	<body>
 		<c:url value="/showMessage.html" var="messageUrl" />
